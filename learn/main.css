@@ -1,0 +1,22 @@
+#container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.poop{
+  text-align: left;
+  width:333px;
+  background: red;
+    border: 5px solid blue;
+
+}
+
+table.A{
+  border: 5px solid black;
+  table-layout: fixed;
+  width:1000px;
+}
+h1 {
+    text-align: center;
+}
